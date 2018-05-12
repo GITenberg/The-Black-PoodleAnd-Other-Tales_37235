@@ -1,0 +1,33 @@
+_repo: The-Black-PoodleAnd-Other-Tales_37235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: The black poodle -- The story of a sugar prince -- The return of
+  Agamemnon -- The wraith of Barnjum -- A toy tragedy -- An undergraduate's aunt --
+  The siren -- The curse of the Catafalques -- A farewell appearance -- Accompanied
+  on the flute.
+title: The Black Poodle, and Other Tales
+url: http://www.gutenberg.org/ebooks/37235
